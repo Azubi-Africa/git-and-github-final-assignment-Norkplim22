@@ -20,7 +20,7 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
+| 1 | Pyton project              |  Sales and planning operation project             | https:// https://github.com/Norkplim22/Python-project.git       |
 | 2 |  -             |  -             | https://       |
 | 3 |  -             |  -             | https://       |
 
