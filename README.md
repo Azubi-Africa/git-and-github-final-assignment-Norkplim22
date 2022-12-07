@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 | Python project              |  Sales and planning operation project             | https://github.com/Norkplim22/Python-project.git       |
+| 2 |  KNIME project            |  Knime-project, model prediction for housing price predictiction             | https://github.com/Norkplim22/KNIME-project.git        |
+| 3 |  Global perspective            |    Data analysis with excel          | https://github.com/Norkplim22/Global-perspective.git       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
